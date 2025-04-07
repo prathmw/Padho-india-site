@@ -413,7 +413,7 @@ overflow: hidden;
 .media.service-box:hover .pull-left > i {  
 }
 #portfolio {
-  padding: 100px 0;
+  padding: 00px 0;
   background: #FFFFFF;
   background-size: cover;
 }
@@ -609,7 +609,7 @@ color:#fff;
 }
 /*Team*/ 
 #our-team {
-  padding: 100px 0;
+  padding: 30px 0;
   background: #FFFFFF;
 }
 #our-team .row {
